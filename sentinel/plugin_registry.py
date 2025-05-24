@@ -1,0 +1,1 @@
+# plugin_registry.py placeholder

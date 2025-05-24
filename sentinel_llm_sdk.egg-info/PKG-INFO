@@ -1,0 +1,28 @@
+Metadata-Version: 2.4
+Name: sentinel-llm-sdk
+Version: 0.1.0
+Summary: Control physical machines using AI with Sentinel SDK
+Home-page: https://github.com/your-username/sentinel-sdk
+Author: Sharath Chandra Kovi
+Author-email: you@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: openai
+Requires-Dist: flask
+Requires-Dist: pyserial
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+# Sentinel SDK
+
+The universal AI-to-physical world SDK. Control any device with natural language.

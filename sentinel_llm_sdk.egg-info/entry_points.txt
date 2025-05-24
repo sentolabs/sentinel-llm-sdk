@@ -1,0 +1,3 @@
+[console_scripts]
+sentinel = sentinel.cli:main
+sentinel.plugins = plugins_cli:main
