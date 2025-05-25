@@ -123,6 +123,6 @@ Whether you're building a smart home system, an autonomous robot, or an industri
 ### 📥 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/sentinel-sdk.git 
+git clone https://github.com/sentolabs/sentinel-sdk.git 
 cd sentinel-sdk
 ./install.sh
