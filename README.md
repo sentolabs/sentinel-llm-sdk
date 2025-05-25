@@ -1,8 +1,12 @@
-# Sentinel SDK: The Bridge Between Intelligence and Machines
+<p align="center">
+  <img src="assets/sentolabs_banner.png" alt="SentoLabs Logo Banner" width="50%" />
+</p>
 
-![Sentinel Logo](assets/logo_256.png)
+<h1 align="center">Sentinel SDK: The Bridge Between Intelligence and Machines</h1>
 
-> **Revolutionizing Physical AI**
+<p align="center"><em>Revolutionizing Physical AI</em></p>
+
+<p align="center"><sub>Built with ❤️ by <strong>SentoLabs</strong></sub></p>
 
 ---
 
