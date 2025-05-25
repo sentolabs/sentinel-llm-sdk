@@ -1,1 +1,0 @@
-# board_detector.py placeholder
