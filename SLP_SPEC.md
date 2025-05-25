@@ -1,0 +1,1 @@
+# Sentinel Link Protocol Spec
