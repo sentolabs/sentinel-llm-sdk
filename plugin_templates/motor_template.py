@@ -1,1 +1,0 @@
-# motor_template.py placeholder
